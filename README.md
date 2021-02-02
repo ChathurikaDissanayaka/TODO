@@ -1,2 +1,6 @@
 # TODO
-TODO App created using React-native
+TODO App created by using React-native
+
+## Features
+  * Add Todos
+  * Remove Todos
